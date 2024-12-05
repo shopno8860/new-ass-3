@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* custom css class */
+.bg-header{
+    background: linear-gradient(0.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+}
+.arrow{
+    transform: rotate(0.02deg);
+}
+.ds-ratio{
+    width: 90%;
+    margin: 0 auto;
+}
